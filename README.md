@@ -36,3 +36,5 @@ Open a browser and go to URL
 http://IP4address:5000                            => Welcome
    
 http://IP4address:5000/how%20are%20you            => I am good, how about you?
+
+To get the docker image, visit docker hub and search for pavan1910/simple-webapp or follow link https://hub.docker.com/r/pavan1910/simple-webapp
